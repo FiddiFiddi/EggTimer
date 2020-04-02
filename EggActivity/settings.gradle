@@ -1,0 +1,2 @@
+rootProject.name='EggActivity'
+include ':app'

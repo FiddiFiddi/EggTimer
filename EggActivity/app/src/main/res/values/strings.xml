@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Eggtastic</string>
+    <string name="EggTitle">Choose an Egg!</string>
+
+
+    <!-- BUTTON TEXT -->
+    <string name="HardBoiled">Hårdkogt</string>
+    <string name="Smiling">Smilende</string>
+    <string name="Soft">Blødkogt</string>
+
+
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <!-- BUTTON TEXT -->
+
+
+    <!--Timer-->
+    <string name="Timer">TIMER TO COME...</string>
+
+
+
+</resources>
