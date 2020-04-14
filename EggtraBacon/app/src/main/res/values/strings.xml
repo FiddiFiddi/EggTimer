@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">EggtraBacon</string>
+
+    <string name="StartTime">00:00</string>
+
+    // Button Descriptions
+    <string name="Soft">Soft</string>
+    <string name="Smiling">Smiling</string>
+    <string name="Hard">Hard</string>
+
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+
+</resources>
